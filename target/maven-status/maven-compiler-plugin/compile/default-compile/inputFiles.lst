@@ -1,0 +1,11 @@
+/workspace/src/main/java/com/memorytraining/controller/ExerciseController.java
+/workspace/src/main/java/com/memorytraining/service/DataService.java
+/workspace/src/main/java/com/memorytraining/util/WordGenerator.java
+/workspace/src/main/java/com/memorytraining/model/User.java
+/workspace/src/main/java/com/memorytraining/service/ExerciseService.java
+/workspace/src/main/java/com/memorytraining/model/ExerciseType.java
+/workspace/src/main/java/com/memorytraining/App.java
+/workspace/src/main/java/com/memorytraining/view/ExerciseWindow.java
+/workspace/src/main/java/com/memorytraining/model/UserPreferences.java
+/workspace/src/main/java/com/memorytraining/model/Score.java
+/workspace/src/main/java/com/memorytraining/view/MainWindow.java
